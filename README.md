@@ -1,26 +1,56 @@
-# HTML-learning
-HTML lessons and practice projects (beginner level)
-# HTML Lesson 2 – Links and Images
+# My HTML Practice Project
 
-This project is part of my Full Stack Developer learning journey.
+## About
+This is a small project where I practice **HTML basics**.  
+I learned how to use:
 
-## 📚 What I learned in this lesson:
-- How to create links using the `<a>` tag
-- Using `href`, `target="_blank"` and `title` attributes
-- How to add images with the `<img>` tag
-- The purpose of `alt` text when an image is not loaded
-- How to wrap an image inside a link
-- Using HTML comments `<!-- -->` to explain code
+- Images and links
+- Lists (ordered, unordered, nested)
+- Tables with rowspan and colspan
 
-## 🧪 Practice examples included:
-- Different types of links
-- Images with correct and incorrect paths
-- An example showing how `alt` text appears if an image fails to load
-- Clickable image links
+---
 
-## 🛠 Technologies:
-- HTML5
+## Table Practice
+Example of a table I made:
 
-## ✍️ Author:
-Boltaboyeva Gavharoy
+| Subject | Test 1 | Test 2 | Final |
+|---------|--------|--------|-------|
+| Math    | 80     | 85     | B     |
+| Math    | 90     | 88     | A     |
+| English | 75     | 82     | B     |
 
+**Notes:**
+- Rowspan = when a subject goes over two rows
+- Colspan = when a title covers many columns
+
+---
+
+## List Practice
+Example of nested lists:
+
+- Frontend
+  - HTML
+  - CSS
+  - JavaScript
+- Backend
+  - Node.js
+  - Database
+
+---
+
+## How to use
+1. Open the HTML file in a browser.
+2. Check lists, images, links, and tables.
+3. Try making your own changes.
+
+---
+
+## Goal
+- Learn HTML
+- Practice tables and lists
+- Keep getting better at web development
+
+---
+
+## Author
+Gavharoy
