@@ -1,56 +1,31 @@
-# My HTML Practice Project
+# Different types of HTML form inputs Project 📝
 
-## About
-This is a small project where I practice **HTML basics**.  
-I learned how to use:
+Hi! This is a simple project where I practiced how to create and use **HTML Forms**. This is part of my web development learning journey.
 
-- Images and links
-- Lists (ordered, unordered, nested)
-- Tables with rowspan and colspan
+## What I Learned 💡
+In this lesson, I learned how to build forms to collect user data. I used the following HTML tags:
+* `<form>`: To create the form container.
+* `<input>`: For text, passwords, and email.
+* `<label>`: To give names to form fields.
+* `<textarea>`: For long messages.
+* `<button>`: To submit the data.
 
----
+## Project Features ✨
+* **Registration Form**: Name, Email, and Password fields.
+* **Input Types**: Text, Email, Number, and Date.
+* **Buttons**: Submit and Reset buttons.
 
-## Table Practice
-Example of a table I made:
 
-| Subject | Test 1 | Test 2 | Final |
-|---------|--------|--------|-------|
-| Math    | 80     | 85     | B     |
-| Math    | 90     | 88     | A     |
-| English | 75     | 82     | B     |
 
-**Notes:**
-- Rowspan = when a subject goes over two rows
-- Colspan = when a title covers many columns
+## How to Run 🚀
+1. Download the files.
+2. Open `index.html` in your web browser (Chrome, Firefox, or Safari).
 
----
-
-## List Practice
-Example of nested lists:
-
-- Frontend
-  - HTML
-  - CSS
-  - JavaScript
-- Backend
-  - Node.js
-  - Database
+## My Progress 📈
+- [x] Create basic HTML structure
+- [x] Add form inputs
+- [x] Add a submit button
+- [ ] Add CSS styling (Next step!)
 
 ---
-
-## How to use
-1. Open the HTML file in a browser.
-2. Check lists, images, links, and tables.
-3. Try making your own changes.
-
----
-
-## Goal
-- Learn HTML
-- Practice tables and lists
-- Keep getting better at web development
-
----
-
-## Author
-Gavharoy
+*Created with ❤️ by Gavharoy*
