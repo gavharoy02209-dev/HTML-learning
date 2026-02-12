@@ -42,4 +42,4 @@ It is a personal blog page where I share my journey in learning web development.
 ## Author
 
 **Gavharoy**  
-Email: gavharoy0209@gmail.com
+Email: gavharoy02209@gmail.com
