@@ -1,31 +1,45 @@
-# Different types of HTML form inputs Project 📝
+# My Personal Blog
 
-Hi! This is a simple project where I practiced how to create and use **HTML Forms**. This is part of my web development learning journey.
-
-## What I Learned 💡
-In this lesson, I learned how to build forms to collect user data. I used the following HTML tags:
-* `<form>`: To create the form container.
-* `<input>`: For text, passwords, and email.
-* `<label>`: To give names to form fields.
-* `<textarea>`: For long messages.
-* `<button>`: To submit the data.
-
-## Project Features ✨
-* **Registration Form**: Name, Email, and Password fields.
-* **Input Types**: Text, Email, Number, and Date.
-* **Buttons**: Submit and Reset buttons.
-
-
-
-## How to Run 🚀
-1. Download the files.
-2. Open `index.html` in your web browser (Chrome, Firefox, or Safari).
-
-## My Progress 📈
-- [x] Create basic HTML structure
-- [x] Add form inputs
-- [x] Add a submit button
-- [ ] Add CSS styling (Next step!)
+This is a **simple HTML project** created to practice semantic tags.  
+It is a personal blog page where I share my journey in learning web development.
 
 ---
-*Created with ❤️ by Gavharoy*
+
+## Features
+
+- **Uses Semantic HTML Tags:**
+  - `header`, `nav`, `main`, `section`, `article`, `aside`, `footer`
+- **Well-structured content:**
+  - **Header:** Blog title and tagline
+  - **Navigation:** Links to Home, About Me, Articles, and Contact
+  - **Main Section:** Contains articles about my learning journey
+  - **Aside:** About me info, motivational quote, and recent posts
+  - **Footer:** Copyright info and contact email
+
+---
+
+## Project Structure
+
+
+---
+
+## How to View
+
+1. Clone this repository or download the `index.html` file.
+2. Open the file in any web browser.
+3. Explore the page and see how semantic tags are used.
+
+---
+
+## Learning Goals
+
+- Practice HTML semantic tags
+- Understand page structure and content organization
+- Prepare projects for GitHub portfolio
+
+---
+
+## Author
+
+**Gavharoy**  
+Email: gavharoy0209@gmail.com
