@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lesson-8 HTML</title>
+</head>
+<body>
+    <header>
+        <h1>The iframe tag and it's usage</h1>
+        <nav>
+            <ul>
+                <li><a href="#audio">Audio</a></li>
+                <li><a href="#video">Video</a></li>
+                <li><a href="#iframe-YouTube">YouTube Video</a></li>
+                <li><a href="#iframe-GoogleMaps">Google Maps</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="audio" class="section">
+                <h2>My Favorite Music</h2>
+                <p>"I like listening to this song while coding or relaxing."</p>
+            <figure>
+                <audio controls loop>
+                <source src="multimedia/fate of.mp3" type="audio/mpeg"> 
+                </audio>               
+                <figcaption>"Sample audio from my favorite artist"</figcaption>
+                <p>"Music keeps me motivated and creative every day."</p>
+            </figure>            
+        </section>
+                
+        <section id="video" class="section">
+            <h2>"My Favorite Video."</h2>
+            <p>"This video is about my pets."</p>
+            <figure>
+                <video controls loop width="600">
+                    <source src="multimedia/pets.mp4" type="video/mp4">
+                </video>
+                <figcaption>I enjoy watching their colors and flying.</figcaption>
+            </figure>
+            <p>"When I see them, life feels easier."</p>
+        </section>
+             
+       <section id="iframe-YouTube" class="section">
+            <h2>"My Favorite Video."</h2>
+            <p>"This video inspires me to keep learning and stay motivated every day."</p>
+            <figure>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/M4yMYF80CFI?si=_-Wbqs0I8YET7j89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </figure>
+        </section>
+
+        
+        <section id="iframe-GoogleMaps" class="section">
+            <h2>"My University Location."</h2>
+            <p>"Here is my university. I spend most of my learning time here."</p>
+            <figure>
+               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3039.9247846134963!2d71.77345059999999!3d40.36619209999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38bb85ba79d62b07%3A0x92f160c6d9f937f4!2sToshkent%20axborot%20texnologiyalari%20universiteti%20Farg&#39;ona%20filiali%201488!5e0!3m2!1sru!2s!4v1771054647405!5m2!1sru!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <figcaption>"Google Maps location of my university."</figcaption>
+            </figure>
+        </section>
+    </main>
+
+    <footer>
+        <h3>Author by Gavharoy</h3>
+        <p>"You can see here what I learned today."</p>
+    </footer>
+    
+   
+</body>
+</html>
