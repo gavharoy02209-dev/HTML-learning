@@ -1,69 +1,72 @@
-# 📘 Lesson 8 – HTML Multimedia and iframe
+# 🌐 My Final HTML Project
 
-## 📌 About This Project
-
-This project is part of my HTML learning journey.  
-In Lesson 8, I focused on multimedia elements and the `<iframe>` tag.
-
-The purpose of this project was to practice embedding different types of media into a webpage and organizing them using semantic HTML structure.
-
-In this project, I worked with audio, video, YouTube embed, and Google Maps embed.
+Welcome to my final HTML project!  
+This project represents an important step in my web development journey.
 
 ---
 
-## 🎯 Project Features
+## 📖 About This Project
 
-- 🎵 Embedded local audio file using `<audio>` and `<source>`
-- 🎬 Embedded local video file using `<video>` and `<source>`
-- 📺 Embedded YouTube video using `<iframe>`
-- 🗺 Embedded Google Maps location using `<iframe>`
-- 🧭 Navigation menu with internal section links
-- 🏗 Structured layout using semantic HTML elements
+In this project, I created a structured and logical web page using only HTML.  
+It demonstrates the knowledge and skills I have gained while learning the fundamentals of web development.
+
+The page includes:
+
+- Semantic HTML structure
+- Navigation with anchor links
+- Tables
+- Forms
+- Multimedia elements (audio, video, iframe)
+- Google Maps integration
+- External links
+
+This project shows my progress, dedication, and consistency in learning.
 
 ---
 
 ## 🧠 What I Learned
 
-- How to properly use `<audio>` and `<video>` elements
-- The correct placement of the `<source>` tag
-- How to embed external content from other domains using `<iframe>`
-- The meaning and usage of iframe attributes such as:
-  - `allow`
-  - `allowfullscreen`
-  - `referrerpolicy`
-  - `loading`
-- The importance of matching `id` values with navigation links
-- How to structure a webpage using:
-  - `<header>`
-  - `<nav>`
-  - `<main>`
-  - `<section>`
-  - `<figure>`
-  - `<figcaption>`
-  - `<footer>`
+During this learning phase, I mastered:
+
+- HTML document structure
+- Text formatting tags
+- Lists (ul, ol, li)
+- Links and navigation
+- Images and alt attributes
+- Tables (tr, th, td, colspan, rowspan)
+- Forms (input, label, textarea, button)
+- Multimedia elements (audio, video, iframe)
+- Embedding external content
 
 ---
 
-## 🛠 Technologies Used
+## 🎯 My Goal
 
-- HTML5  
-- Multimedia elements (audio & video)  
-- iframe embedding  
-- YouTube embed  
-- Google Maps embed  
+My goal is to become a strong full-stack developer.  
+After completing HTML, I am planning to continue learning:
 
----
+- CSS
+- JavaScript
+- Backend technologies
 
-## 🚀 Project Purpose
-
-This project helped me understand how multimedia content works in HTML and how to safely embed content from external sources.
-
-It is one of the important steps in my journey to becoming a professional web developer.
+I am committed to improving every day and building modern, functional web applications.
 
 ---
 
-## 👩‍💻 Author
+## 📫 Contact Me
 
-**Gavharoy**  
-Beginner Web Developer  
-Learning step by step and improving every day.
+If you would like to connect with me or follow my progress:
+
+- 📧 Email: gavharoy02209@gmail.com  
+- 💻 GitHub: https://github.com/gavharoy02209-dev  
+
+---
+
+## 🚀 Project Status
+
+✅ HTML Completed  
+🔄 Growing and improving every day  
+
+---
+
+### Thank you for visiting my project!
