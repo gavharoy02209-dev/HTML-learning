@@ -1,72 +1,68 @@
-# 🌐 My Final HTML Project
+# 🌤 CSS Lesson 1 – Selectors and Basic Styling
 
-Welcome to my final HTML project!  
-This project represents an important step in my web development journey.
+## 📌 About This Project
+
+This project is my first step into the world of CSS.  
+In this lesson, I learned how to style an HTML page using different types of CSS selectors and basic design properties.
+
+The goal of this project was to understand how CSS works with HTML structure and how styles are applied using selectors.
 
 ---
 
-## 📖 About This Project
+## 🎯 What I Practiced
 
-In this project, I created a structured and logical web page using only HTML.  
-It demonstrates the knowledge and skills I have gained while learning the fundamentals of web development.
+In this project, I used:
 
-The page includes:
+- Universal selector (`*`)
+- Element selectors (`body`, `p`, `h1`, etc.)
+- Grouping selector (`header, footer`)
+- ID selector (`#skills`, `#contactme`)
+- Class selector (`.section`, `.skills-image`)
+- Descendant selector (`nav ul`, `nav a`)
+- Hover effect (`button:hover`)
+- Basic layout styling (margin, padding, border-radius)
+- Background colors and color harmony
+- Text styling and font settings
 
-- Semantic HTML structure
-- Navigation with anchor links
-- Tables
-- Forms
-- Multimedia elements (audio, video, iframe)
-- Google Maps integration
-- External links
+---
 
-This project shows my progress, dedication, and consistency in learning.
+## 🎨 Design Concept
+
+I chose a **sky-blue color palette** to create a clean and modern look.
+
+- Header and Footer → Dark blue  
+- Sections → Light sky blue  
+- Background → Soft light tone  
+
+This helped me understand how color contrast and harmony affect visual appearance.
 
 ---
 
 ## 🧠 What I Learned
 
-During this learning phase, I mastered:
-
-- HTML document structure
-- Text formatting tags
-- Lists (ul, ol, li)
-- Links and navigation
-- Images and alt attributes
-- Tables (tr, th, td, colspan, rowspan)
-- Forms (input, label, textarea, button)
-- Multimedia elements (audio, video, iframe)
-- Embedding external content
+- How CSS selectors target specific elements  
+- The difference between ID and class selectors  
+- How grouping selectors work  
+- How descendant selectors apply styles to nested elements  
+- How hover effects create interaction  
+- How CSS cascade and specificity affect styling  
 
 ---
 
-## 🎯 My Goal
+## 🚀 Next Steps
 
-My goal is to become a strong full-stack developer.  
-After completing HTML, I am planning to continue learning:
+After learning selectors, I will continue with:
 
-- CSS
-- JavaScript
-- Backend technologies
+- Box model
+- Display and positioning
+- Layout techniques
+- Responsive design
 
-I am committed to improving every day and building modern, functional web applications.
-
----
-
-## 📫 Contact Me
-
-If you would like to connect with me or follow my progress:
-
-- 📧 Email: gavharoy02209@gmail.com  
-- 💻 GitHub: https://github.com/gavharoy02209-dev  
+This project marks the beginning of my CSS journey as a future full stack developer.
 
 ---
 
-## 🚀 Project Status
+## 👩‍💻 Author
 
-✅ HTML Completed  
-🔄 Growing and improving every day  
-
----
-
-### Thank you for visiting my project!
+**Gavharoy**  
+2026 – My Web Development Journey
