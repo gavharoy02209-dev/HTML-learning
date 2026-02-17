@@ -1,0 +1,70 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body { 
+    background-color:  #F4F9FF;
+    font-family: Arial, sans-serif;
+    text-align: center;
+   }
+
+header,footer {
+    background-color: #1565C0;
+    padding: 20px;
+    color: white;
+   }
+h1, h2 { 
+    font-weight: bold;
+}
+.section { 
+    background-color: #E3F2FD; 
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;   
+}
+p { 
+    color: #333;
+}
+header p,
+footer p { 
+    color: whitesmoke;
+}
+#skills { 
+        background-color: #E3F2FD;
+    }
+.skills-image  { 
+    width: 350px;
+    margin: 30px auto;
+    border-radius: 10px;
+} 
+nav ul { 
+    list-style: none;
+}
+nav li { 
+    display: inline-block;
+    margin: 0 15px;
+}
+nav a { 
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+button { 
+    padding: 10px 20px;
+    background-color: #1565C0;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+button:hover { 
+    background-color: #0D47A1;
+}
+#contactme h2,
+#contactme p { 
+    margin-bottom: 15px;
+}
+
