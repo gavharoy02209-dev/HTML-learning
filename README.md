@@ -1,68 +1,25 @@
-# 🌤 CSS Lesson 1 – Selectors and Basic Styling
+# My First CSS Layout Project: Box Model Practice
 
-## 📌 About This Project
+Welcome to my first CSS project! In this project, I focused on learning how to structure a website using **HTML** and how to style it using **CSS Selectors** and the **Box Model**. 
 
-This project is my first step into the world of CSS.  
-In this lesson, I learned how to style an HTML page using different types of CSS selectors and basic design properties.
+## What I Practiced:
+* **CSS Box Model:** I learned the difference between `margin`, `border`, `padding`, and `content`.
+* **Selectors:** I used `id`, `class`, and element selectors to apply different styles.
+* **Layouting:** I practiced centering elements using `margin: auto` and controlling widths with `max-width`.
+* **Colors & Typography:** I chose a "Nature Green" color palette to make the website look clean and professional.
 
-The goal of this project was to understand how CSS works with HTML structure and how styles are applied using selectors.
+## Project Structure
+The project consists of three main sections:
+1. **Hobby:** A card about my journey in coding.
+2. **Simple-Food:** A card describing one of my favorite foods.
+3. **Services:** A card about web design basics.
 
----
+## How to Run:
+1. Clone this repository or download the files.
+2. Open `2index.html` in any web browser.
 
-## 🎯 What I Practiced
+## Personal Note:
+This is my very first step into web development. I am proud of how I controlled the spacing and layout without using complex frameworks. I'm excited to learn Flexbox and Grid next!
 
-In this project, I used:
-
-- Universal selector (`*`)
-- Element selectors (`body`, `p`, `h1`, etc.)
-- Grouping selector (`header, footer`)
-- ID selector (`#skills`, `#contactme`)
-- Class selector (`.section`, `.skills-image`)
-- Descendant selector (`nav ul`, `nav a`)
-- Hover effect (`button:hover`)
-- Basic layout styling (margin, padding, border-radius)
-- Background colors and color harmony
-- Text styling and font settings
-
----
-
-## 🎨 Design Concept
-
-I chose a **sky-blue color palette** to create a clean and modern look.
-
-- Header and Footer → Dark blue  
-- Sections → Light sky blue  
-- Background → Soft light tone  
-
-This helped me understand how color contrast and harmony affect visual appearance.
-
----
-
-## 🧠 What I Learned
-
-- How CSS selectors target specific elements  
-- The difference between ID and class selectors  
-- How grouping selectors work  
-- How descendant selectors apply styles to nested elements  
-- How hover effects create interaction  
-- How CSS cascade and specificity affect styling  
-
----
-
-## 🚀 Next Steps
-
-After learning selectors, I will continue with:
-
-- Box model
-- Display and positioning
-- Layout techniques
-- Responsive design
-
-This project marks the beginning of my CSS journey as a future full stack developer.
-
----
-
-## 👩‍💻 Author
-
-**Gavharoy**  
-2026 – My Web Development Journey
+**Author:** Gavharoy  
+**Date:** February 19, 2026
