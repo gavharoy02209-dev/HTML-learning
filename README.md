@@ -1,25 +1,30 @@
-# My First CSS Layout Project: Box Model Practice
+# Personal Blog Layout Project
 
-Welcome to my first CSS project! In this project, I focused on learning how to structure a website using **HTML** and how to style it using **CSS Selectors** and the **Box Model**. 
+This project is created to practice CSS position and layout.
 
-## What I Practiced:
-* **CSS Box Model:** I learned the difference between `margin`, `border`, `padding`, and `content`.
-* **Selectors:** I used `id`, `class`, and element selectors to apply different styles.
-* **Layouting:** I practiced centering elements using `margin: auto` and controlling widths with `max-width`.
-* **Colors & Typography:** I chose a "Nature Green" color palette to make the website look clean and professional.
+## What I practiced
 
-## Project Structure
-The project consists of three main sections:
-1. **Hobby:** A card about my journey in coding.
-2. **Simple-Food:** A card describing one of my favorite foods.
-3. **Services:** A card about web design basics.
+- position: fixed
+- z-index
+- flexbox layout
+- hover effects
+- responsive design with media query
+- box-shadow and transitions
 
-## How to Run:
-1. Clone this repository or download the files.
-2. Open `2index.html` in any web browser.
+## About my progress
 
-## Personal Note:
-This is my very first step into web development. I am proud of how I controlled the spacing and layout without using complex frameworks. I'm excited to learn Flexbox and Grid next!
+I could not work regularly for some time because of health reasons and limited time. 
+Sometimes I could not enter and practice as I wanted.
 
-**Author:** Gavharoy  
-**Date:** February 19, 2026
+Now I am trying to come back and continue learning step by step.
+I am improving my layout and design skills with each project.
+
+This project uses a pink color theme and includes:
+- Fixed header
+- Hero section
+- About section
+- Blog cards
+- Contact section
+- Responsive layout
+
+I will continue building more projects and improving my skills.
