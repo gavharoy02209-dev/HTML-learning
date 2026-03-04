@@ -1,30 +1,35 @@
-# Personal Blog Layout Project
+# Nordic Explorer - Travelling in Nature
 
-This project is created to practice CSS position and layout.
+## Overview
+This is a simple, modern landing page for a travel website called **Nordic Explorer**.  
+It showcases beautiful destinations, a photo gallery, and a contact form for visitors to reach out.
 
-## What I practiced
+---
 
-- position: fixed
-- z-index
-- flexbox layout
-- hover effects
-- responsive design with media query
-- box-shadow and transitions
+## Features
+- **Hero Section** with full-screen background and gradient overlay  
+- **Responsive Card Layout** for popular destinations  
+- **Photo Gallery** using CSS Grid and hover effects  
+- **Contact Form** with input fields for name, email, and message  
+- **Header & Footer** styled for modern look  
+- Smooth **hover animations** for buttons and cards
 
-## About my progress
+---
 
-I could not work regularly for some time because of health reasons and limited time. 
-Sometimes I could not enter and practice as I wanted.
+## Technologies Used
+- HTML5  
+- CSS3 (Flexbox, Grid, Gradients, Transitions)  
+- Responsive design principles  
 
-Now I am trying to come back and continue learning step by step.
-I am improving my layout and design skills with each project.
+---
 
-This project uses a pink color theme and includes:
-- Fixed header
-- Hero section
-- About section
-- Blog cards
-- Contact section
-- Responsive layout
+## How to View
+1. Clone or download the repository  
+2. Open `index.html` in your browser  
+3. Enjoy the interactive landing page
 
-I will continue building more projects and improving my skills.
+---
+
+## Author
+**Gavharoy**  
+Learning front-end development with HTML & CSS, building projects to improve skills
