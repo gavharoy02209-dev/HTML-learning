@@ -1,35 +1,66 @@
-# Nordic Explorer - Travelling in Nature
+# FocusFlow – Productivity Landing Page
 
-## Overview
-This is a simple, modern landing page for a travel website called **Nordic Explorer**.  
-It showcases beautiful destinations, a photo gallery, and a contact form for visitors to reach out.
+This is a simple landing page project called **FocusFlow**.
+The goal of this project is to present a productivity tool that helps people stay focused, manage their time better, and avoid distractions while working or studying.
+
+## 🚀 Project Description
+
+FocusFlow is designed as a clean and simple productivity landing page.
+It introduces the idea of a focus tool that includes a smart timer, task management, and distraction blocking.
+
+The page contains several sections:
+
+* **Header / Navigation** – logo, navigation links, and a call-to-action button
+* **Home Section** – introduction to FocusFlow
+* **Features Section** – key productivity tools
+* **How It Works** – simple explanation of the workflow
+* **Reviews Section** – user feedback examples
+* **Contact Section** – form, location map, and contact information
+* **Footer** – project closing information
+
+## 🛠 Technologies Used
+
+* **HTML5**
+* **CSS3**
+* **Flexbox**
+* **CSS Grid**
+* **Responsive Design (Media Queries)**
+
+## 📱 Responsive Design
+
+The layout adjusts to different screen sizes:
+
+* Desktop – 3 column layout
+* Tablet – 2 columns
+* Mobile – 1 column
+
+This was implemented using **CSS Grid** and **media queries**.
+
+## 🎯 Learning Purpose
+
+This project is part of my **web development learning journey**.
+I am currently studying **HTML and CSS** and trying to practice by building small projects like this.
+
+My goal is to become a **professional full-stack developer** in the future.
+
+I am trying to learn **as quickly and as solidly as possible**, but sometimes my **health slows me down a little**.
+Even so, I try to continue learning step by step and improving my skills every day.
+
+## 📌 What I Practiced in This Project
+
+* Semantic HTML structure
+* Navigation links with anchor sections
+* Flexbox layout
+* CSS Grid cards layout
+* Hover effects
+* Responsive design
+* Simple UI design principles
+
+## 📬 Contact
+
+Email: [gavharoy02209@gmail.com](mailto:gavharoy02209@gmail.com)
+Phone: +998 90 770 02 20
 
 ---
 
-## Features
-- **Hero Section** with full-screen background and gradient overlay  
-- **Responsive Card Layout** for popular destinations  
-- **Photo Gallery** using CSS Grid and hover effects  
-- **Contact Form** with input fields for name, email, and message  
-- **Header & Footer** styled for modern look  
-- Smooth **hover animations** for buttons and cards
-
----
-
-## Technologies Used
-- HTML5  
-- CSS3 (Flexbox, Grid, Gradients, Transitions)  
-- Responsive design principles  
-
----
-
-## How to View
-1. Clone or download the repository  
-2. Open `index.html` in your browser  
-3. Enjoy the interactive landing page
-
----
-
-## Author
-**Gavharoy**  
-Learning front-end development with HTML & CSS, building projects to improve skills
+⭐ This project is part of my learning process. More projects will be added as I continue improving my web development skills.
