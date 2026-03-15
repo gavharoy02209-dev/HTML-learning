@@ -1,66 +1,54 @@
-# FocusFlow – Productivity Landing Page
+# FocusFlow Bootstrap Landing Page
 
-This is a simple landing page project called **FocusFlow**.
-The goal of this project is to present a productivity tool that helps people stay focused, manage their time better, and avoid distractions while working or studying.
+This project is a simple **landing page built using HTML and Bootstrap**.
+It is part of my web development learning journey where I practice building small projects to improve my skills.
 
-## 🚀 Project Description
+## 📌 Project Overview
 
-FocusFlow is designed as a clean and simple productivity landing page.
-It introduces the idea of a focus tool that includes a smart timer, task management, and distraction blocking.
+FocusFlow is a basic productivity landing page that introduces a tool designed to help people stay focused and manage their time effectively.
 
-The page contains several sections:
+The page includes several sections:
 
-* **Header / Navigation** – logo, navigation links, and a call-to-action button
-* **Home Section** – introduction to FocusFlow
-* **Features Section** – key productivity tools
-* **How It Works** – simple explanation of the workflow
-* **Reviews Section** – user feedback examples
-* **Contact Section** – form, location map, and contact information
-* **Footer** – project closing information
+* Navigation bar
+* Hero section
+* Features section with cards
+* Call-to-action buttons
+* Footer
 
 ## 🛠 Technologies Used
 
-* **HTML5**
-* **CSS3**
-* **Flexbox**
-* **CSS Grid**
-* **Responsive Design (Media Queries)**
+* HTML5
+* Bootstrap (via CDN)
 
-## 📱 Responsive Design
+## 📱 Responsive Layout
 
-The layout adjusts to different screen sizes:
-
-* Desktop – 3 column layout
-* Tablet – 2 columns
-* Mobile – 1 column
-
-This was implemented using **CSS Grid** and **media queries**.
+The project uses Bootstrap's grid system to create a responsive layout that adapts to different screen sizes such as desktop, tablet, and mobile devices.
 
 ## 🎯 Learning Purpose
 
-This project is part of my **web development learning journey**.
-I am currently studying **HTML and CSS** and trying to practice by building small projects like this.
+This project was created to practice:
 
-My goal is to become a **professional full-stack developer** in the future.
+* Connecting Bootstrap using CDN
+* Using Bootstrap components
+* Working with containers, rows, and columns
+* Building simple responsive layouts
 
-I am trying to learn **as quickly and as solidly as possible**, but sometimes my **health slows me down a little**.
-Even so, I try to continue learning step by step and improving my skills every day.
+I am currently learning **HTML, CSS, and Bootstrap** and building small projects to strengthen my understanding.
 
-## 📌 What I Practiced in This Project
+I try to learn as consistently and effectively as possible. Sometimes my health slows me down a little, but I keep moving forward step by step and continue improving my skills.
 
-* Semantic HTML structure
-* Navigation links with anchor sections
-* Flexbox layout
-* CSS Grid cards layout
-* Hover effects
-* Responsive design
-* Simple UI design principles
+## 🚀 Future Improvements
+
+In the future, I plan to add:
+
+* More Bootstrap components
+* Better layout design
+* Additional pages and features
 
 ## 📬 Contact
 
 Email: [gavharoy02209@gmail.com](mailto:gavharoy02209@gmail.com)
-Phone: +998 90 770 02 20
 
 ---
 
-⭐ This project is part of my learning process. More projects will be added as I continue improving my web development skills.
+⭐ This project is part of my developer learning journey. More projects will be added as I continue improving my skills.
