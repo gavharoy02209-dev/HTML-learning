@@ -1,54 +1,86 @@
-# FocusFlow Bootstrap Landing Page
+# 🌙 Dark Mode Responsive Website
 
-This project is a simple **landing page built using HTML and Bootstrap**.
-It is part of my web development learning journey where I practice building small projects to improve my skills.
+A simple and modern **Dark Mode website** built using **HTML and CSS**.
+This project demonstrates how to create a clean UI with automatic dark mode support and responsive design.
 
-## 📌 Project Overview
+---
 
-FocusFlow is a basic productivity landing page that introduces a tool designed to help people stay focused and manage their time effectively.
+## 📸 Project Preview
 
-The page includes several sections:
+![Project Screenshot](screenshot.png)
 
-* Navigation bar
-* Hero section
-* Features section with cards
-* Call-to-action buttons
-* Footer
+---
+
+## 🚀 Features
+
+* 🌙 Automatic Dark Mode (based on system settings)
+* 📱 Fully Responsive Design
+* 🎨 Clean and Modern UI
+* ⚡ Lightweight and fast
+* 🧩 Built with pure HTML & CSS (no frameworks)
+
+---
 
 ## 🛠 Technologies Used
 
 * HTML5
-* Bootstrap (via CDN)
-
-## 📱 Responsive Layout
-
-The project uses Bootstrap's grid system to create a responsive layout that adapts to different screen sizes such as desktop, tablet, and mobile devices.
-
-## 🎯 Learning Purpose
-
-This project was created to practice:
-
-* Connecting Bootstrap using CDN
-* Using Bootstrap components
-* Working with containers, rows, and columns
-* Building simple responsive layouts
-
-I am currently learning **HTML, CSS, and Bootstrap** and building small projects to strengthen my understanding.
-
-I try to learn as consistently and effectively as possible. Sometimes my health slows me down a little, but I keep moving forward step by step and continue improving my skills.
-
-## 🚀 Future Improvements
-
-In the future, I plan to add:
-
-* More Bootstrap components
-* Better layout design
-* Additional pages and features
-
-## 📬 Contact
-
-Email: [gavharoy02209@gmail.com](mailto:gavharoy02209@gmail.com)
+* CSS3
+* CSS Grid
+* Media Queries
+* Modern CSS (`prefers-color-scheme`)
 
 ---
 
-⭐ This project is part of my developer learning journey. More projects will be added as I continue improving my skills.
+## 🌙 Dark Mode Implementation
+
+This project uses modern CSS to detect the user's system theme:
+
+```css
+@media (prefers-color-scheme: dark) {
+  /* Dark styles */
+}
+```
+
+When the user's device is set to **dark mode**, the website automatically adapts.
+
+---
+
+## 📱 Responsive Design
+
+The layout adjusts to different screen sizes:
+
+| Device  | Layout    |
+| ------- | --------- |
+| Desktop | 3 columns |
+| Tablet  | 2 columns |
+| Mobile  | 1 column  |
+
+---
+
+## 🎯 Learning Purpose
+
+This project is part of my **web development learning journey**.
+
+I am currently learning **HTML and CSS** and building projects to strengthen my skills.
+
+I am trying to learn **as quickly and as solidly as possible**, but sometimes my **health slows me down a little**.
+Even so, I continue practicing step by step and improving every day.
+
+---
+
+## 📂 How to Use
+
+1. Clone the repository
+2. Open `tecnologies.html` in your browser
+3. Enable dark mode on your device to see the effect
+
+---
+
+## ⭐ Project Status
+
+✔ Completed as a practice project
+✔ Ready for GitHub portfolio
+
+---
+
+💡 More projects coming soon as I continue improving my frontend development skills.
