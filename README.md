@@ -7,13 +7,13 @@ A responsive product showcase website for **YARMAG Textile**, a children's and a
 ## Screenshots
 
 ### Hero Section
-![Hero Section](screenshot/head.png)
+![Hero Section](head.png)
 
 ### Products Section
-![Products Section](screenshot/body.png)
+![Products Section](body.png)
 
 ### Contact Section
-![Contact Section](screenshot/contact.png)
+![Contact Section](contact.png)
 
 ---
 
