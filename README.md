@@ -1,86 +1,89 @@
-# 🌙 Dark Mode Responsive Website
+# YARMAG Textile — Official Website
 
-A simple and modern **Dark Mode website** built using **HTML and CSS**.
-This project demonstrates how to create a clean UI with automatic dark mode support and responsive design.
-
----
-
-## 📸 Project Preview
-
-![Project Screenshot](screenshot.png)
+A responsive product showcase website for **YARMAG Textile**, a children's and adult clothing brand based in Uzbekistan. Built as a frontend practice project using pure HTML and CSS.
 
 ---
 
-## 🚀 Features
+## Screenshots
 
-* 🌙 Automatic Dark Mode (based on system settings)
-* 📱 Fully Responsive Design
-* 🎨 Clean and Modern UI
-* ⚡ Lightweight and fast
-* 🧩 Built with pure HTML & CSS (no frameworks)
+### Hero Section
+![Hero Section](screenshot/head.png)
 
----
+### Products Section
+![Products Section](screenshot/body.png)
 
-## 🛠 Technologies Used
-
-* HTML5
-* CSS3
-* CSS Grid
-* Media Queries
-* Modern CSS (`prefers-color-scheme`)
+### Contact Section
+![Contact Section](screenshot/contact.png)
 
 ---
 
-## 🌙 Dark Mode Implementation
+## Features
 
-This project uses modern CSS to detect the user's system theme:
+- Responsive design (mobile & desktop)
+- Sticky navigation header
+- Smooth scroll navigation
+- Horizontal image scroll gallery for each product category
+- Contact form UI
+- Clean product cards with hover effects
 
-```css
-@media (prefers-color-scheme: dark) {
-  /* Dark styles */
-}
+---
+
+## Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| HTML5 | Page structure & semantics |
+| CSS3 | Styling, layout, animations |
+| Google Fonts | Poppins font family |
+| Flexbox | Responsive grid layout |
+
+---
+
+## Project Structure
+
+```
+yarmag-textile/
+│
+├── index.html        # Main HTML file
+├── final.css         # All styles
+├── screenshots/      # README screenshots
+│   ├── hero.png
+│   ├── products.png
+│   └── contact.png
+└── product/          # Product images
+    ├── fudbolka1.jpg
+    ├── fudbolka2.jpg
+    └── ...
 ```
 
-When the user's device is set to **dark mode**, the website automatically adapts.
+---
+
+## Sections
+
+- **Home** — Hero banner with brand tagline
+- **About Us** — Short brand story
+- **Products** — 3 product categories with scrollable image galleries
+  - Children's Underwear
+  - Children's Top
+  - Adult T-shirt
+- **Contact** — Message form for orders and inquiries
 
 ---
 
-## 📱 Responsive Design
+## What I Learned
 
-The layout adjusts to different screen sizes:
-
-| Device  | Layout    |
-| ------- | --------- |
-| Desktop | 3 columns |
-| Tablet  | 2 columns |
-| Mobile  | 1 column  |
+- CSS Flexbox layout and responsive design
+- Sticky positioning for navigation
+- Scroll snapping with `scroll-snap-type`
+- CSS transitions and hover effects
+- How to structure a real-world landing page
 
 ---
 
-## 🎯 Learning Purpose
 
-This project is part of my **web development learning journey**.
+## Author
 
-I am currently learning **HTML and CSS** and building projects to strengthen my skills.
+**Gavharoy**  
+Frontend Developer (in progress)  
+Uzbekistan 🇺🇿
 
-I am trying to learn **as quickly and as solidly as possible**, but sometimes my **health slows me down a little**.
-Even so, I continue practicing step by step and improving every day.
-
----
-
-## 📂 How to Use
-
-1. Clone the repository
-2. Open `tecnologies.html` in your browser
-3. Enable dark mode on your device to see the effect
-
----
-
-## ⭐ Project Status
-
-✔ Completed as a practice project
-✔ Ready for GitHub portfolio
-
----
-
-💡 More projects coming soon as I continue improving my frontend development skills.
